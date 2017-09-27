@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/eilers/Workspaces/workspace-android/PepperNaoRemote/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/home/eilers/Workspaces/workspace-android/PepperNaoRemote/app/build/intermediates/pre-dexed/debug/classes-5c28eb2a6a82ef4932cbd0f85a6d5aeaf686d9e7.jar" />
+    </item>
+    <item
+        jar="/home/eilers/Workspaces/workspace-android/PepperNaoRemote/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/home/eilers/Workspaces/workspace-android/PepperNaoRemote/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-300ee89c7973f2c5032754f4380900b48bb73ad3.jar" />
+    </item>
+    <item
+        jar="/home/eilers/Workspaces/workspace-android/PepperNaoRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/home/eilers/Workspaces/workspace-android/PepperNaoRemote/app/build/intermediates/pre-dexed/debug/classes-2429f8f1d2eadf2f764f42cecf4a376741270d95.jar" />
+    </item>
+    <item
+        jar="/home/eilers/Apps/android-sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/home/eilers/Workspaces/workspace-android/PepperNaoRemote/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-7df17f2fcfa8fd7a96e37506d13fbe69cb462378.jar" />
+    </item>
+    <item
+        jar="/home/eilers/Workspaces/workspace-android/PepperNaoRemote/libs/java-naoqi-sdk-2.1.4-android.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="98358c279a0d84f79dc68acbe54f96590af4452b">
+        <dex dex="/home/eilers/Workspaces/workspace-android/PepperNaoRemote/app/build/intermediates/pre-dexed/debug/java-naoqi-sdk-2.1.4-android-1f7fd16d4ca85a189fbfa2a4f84b603b6b25ca83.jar" />
+    </item>
+
+</items>

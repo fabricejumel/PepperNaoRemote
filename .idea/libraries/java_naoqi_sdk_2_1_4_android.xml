@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="java-naoqi-sdk-2.1.4-android">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/java-naoqi-sdk-2.1.4-android.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

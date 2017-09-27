@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Robot Bluetooth Joystick</string>
+    <string name="instruction">Gebe die IP des Roboter ein um dich zu verbinden.\nNutze die Controler-Icons auf dem Bildschirm or drehe und kippe das Gerät\num den Roboter zu bewegen.</string>
+    <string name="button_up">Auf</string>
+    <string name="button_down">Ab</string>
+    <string name="button_left">Links</string>
+    <string name="button_right">Rechts</string>
+    <string name="device_use_orientation">Benutze Gerätausrichtung</string>
+    <string name="sensor_left">Linker Sensor</string>
+    <string name="sensor_right">Rechter Sensor</string>
+    <string name="img_description" />
+    <string name="device_connected">Verbunden</string>
+    <string name="device_connecting">Verbinde...</string>
+    <string name="device_disconnected">Verbindung getrennt</string>
+    <string name="device_list_header">Robot IP:</string>
+    <string name="move_speed">Speed:</string>
+    <string name="device_connect">verbinden</string>
+    <string name="device_connect_ip_default">192.168.1.102</string>
+
+</resources>

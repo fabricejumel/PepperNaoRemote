@@ -1,0 +1,8 @@
+<resources>
+
+    <color name="overlay">#66000000</color>
+    <color name="background">#FF0099CC</color>
+    <color name="text">#FF84CAE4</color>
+    <color name="sensor_active">#FFAA0000</color>
+
+</resources>
