@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Robot Bluetooth Joystick</string>
+    <string name="app_name">Pepper NAO Remote</string>
     <string name="instruction">Enter robot ip to connect.\nUse the controler icons on screen or pan and tilt device\nto move the robot.</string>
     <string name="button_up">Up</string>
     <string name="button_down">Down</string>

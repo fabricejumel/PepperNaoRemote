@@ -1140,25 +1140,25 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background de.hanneseilers.robotbluetoothjoystick:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit de.hanneseilers.robotbluetoothjoystick:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked de.hanneseilers.robotbluetoothjoystick:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout de.hanneseilers.robotbluetoothjoystick:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions de.hanneseilers.robotbluetoothjoystick:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider de.hanneseilers.robotbluetoothjoystick:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height de.hanneseilers.robotbluetoothjoystick:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout de.hanneseilers.robotbluetoothjoystick:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon de.hanneseilers.robotbluetoothjoystick:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle de.hanneseilers.robotbluetoothjoystick:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding de.hanneseilers.robotbluetoothjoystick:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo de.hanneseilers.robotbluetoothjoystick:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode de.hanneseilers.robotbluetoothjoystick:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding de.hanneseilers.robotbluetoothjoystick:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle de.hanneseilers.robotbluetoothjoystick:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle de.hanneseilers.robotbluetoothjoystick:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle de.hanneseilers.robotbluetoothjoystick:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title de.hanneseilers.robotbluetoothjoystick:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle de.hanneseilers.robotbluetoothjoystick:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background de.hanneseilers.peppernaoremote:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit de.hanneseilers.peppernaoremote:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked de.hanneseilers.peppernaoremote:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout de.hanneseilers.peppernaoremote:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions de.hanneseilers.peppernaoremote:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider de.hanneseilers.peppernaoremote:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height de.hanneseilers.peppernaoremote:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout de.hanneseilers.peppernaoremote:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon de.hanneseilers.peppernaoremote:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle de.hanneseilers.peppernaoremote:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding de.hanneseilers.peppernaoremote:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo de.hanneseilers.peppernaoremote:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode de.hanneseilers.peppernaoremote:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding de.hanneseilers.peppernaoremote:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle de.hanneseilers.peppernaoremote:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle de.hanneseilers.peppernaoremote:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle de.hanneseilers.peppernaoremote:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title de.hanneseilers.peppernaoremote:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle de.hanneseilers.peppernaoremote:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -1188,17 +1188,17 @@ containing a value of this type.
             0x7f01004d, 0x7f01004e, 0x7f01004f
         };
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#background}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.hanneseilers.robotbluetoothjoystick:background
+          @attr name de.hanneseilers.peppernaoremote:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1206,11 +1206,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name de.hanneseilers.robotbluetoothjoystick:backgroundSplit
+          @attr name de.hanneseilers.peppernaoremote:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1218,21 +1218,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name de.hanneseilers.robotbluetoothjoystick:backgroundStacked
+          @attr name de.hanneseilers.peppernaoremote:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.hanneseilers.robotbluetoothjoystick:customNavigationLayout
+          @attr name de.hanneseilers.peppernaoremote:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1249,21 +1249,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name de.hanneseilers.robotbluetoothjoystick:displayOptions
+          @attr name de.hanneseilers.peppernaoremote:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#divider}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.hanneseilers.robotbluetoothjoystick:divider
+          @attr name de.hanneseilers.peppernaoremote:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#height}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1275,41 +1275,41 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.hanneseilers.robotbluetoothjoystick:height
+          @attr name de.hanneseilers.peppernaoremote:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.hanneseilers.robotbluetoothjoystick:homeLayout
+          @attr name de.hanneseilers.peppernaoremote:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#icon}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.hanneseilers.robotbluetoothjoystick:icon
+          @attr name de.hanneseilers.peppernaoremote:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.hanneseilers.robotbluetoothjoystick:indeterminateProgressStyle
+          @attr name de.hanneseilers.peppernaoremote:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1321,21 +1321,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.hanneseilers.robotbluetoothjoystick:itemPadding
+          @attr name de.hanneseilers.peppernaoremote:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#logo}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.hanneseilers.robotbluetoothjoystick:logo
+          @attr name de.hanneseilers.peppernaoremote:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1349,11 +1349,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name de.hanneseilers.robotbluetoothjoystick:navigationMode
+          @attr name de.hanneseilers.peppernaoremote:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1365,21 +1365,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.hanneseilers.robotbluetoothjoystick:progressBarPadding
+          @attr name de.hanneseilers.peppernaoremote:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.hanneseilers.robotbluetoothjoystick:progressBarStyle
+          @attr name de.hanneseilers.peppernaoremote:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1389,21 +1389,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.hanneseilers.robotbluetoothjoystick:subtitle
+          @attr name de.hanneseilers.peppernaoremote:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.hanneseilers.robotbluetoothjoystick:subtitleTextStyle
+          @attr name de.hanneseilers.peppernaoremote:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#title}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1413,17 +1413,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.hanneseilers.robotbluetoothjoystick:title
+          @attr name de.hanneseilers.peppernaoremote:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.hanneseilers.robotbluetoothjoystick:titleTextStyle
+          @attr name de.hanneseilers.peppernaoremote:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -1451,13 +1451,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBarWindow_windowActionBar de.hanneseilers.robotbluetoothjoystick:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBarWindow_windowActionBarOverlay de.hanneseilers.robotbluetoothjoystick:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBarWindow_windowFixedHeightMajor de.hanneseilers.robotbluetoothjoystick:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBarWindow_windowFixedHeightMinor de.hanneseilers.robotbluetoothjoystick:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBarWindow_windowFixedWidthMajor de.hanneseilers.robotbluetoothjoystick:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBarWindow_windowFixedWidthMinor de.hanneseilers.robotbluetoothjoystick:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBarWindow_windowSplitActionBar de.hanneseilers.robotbluetoothjoystick:windowSplitActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBarWindow_windowActionBar de.hanneseilers.peppernaoremote:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBarWindow_windowActionBarOverlay de.hanneseilers.peppernaoremote:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBarWindow_windowFixedHeightMajor de.hanneseilers.peppernaoremote:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBarWindow_windowFixedHeightMinor de.hanneseilers.peppernaoremote:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBarWindow_windowFixedWidthMajor de.hanneseilers.peppernaoremote:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBarWindow_windowFixedWidthMinor de.hanneseilers.peppernaoremote:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBarWindow_windowSplitActionBar de.hanneseilers.peppernaoremote:windowSplitActionBar}</code></td><td></td></tr>
            </table>
            @see #ActionBarWindow_windowActionBar
            @see #ActionBarWindow_windowActionBarOverlay
@@ -1472,7 +1472,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010054, 0x7f010055, 0x7f010056
         };
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#windowActionBar}
           attribute's value can be found in the {@link #ActionBarWindow} array.
 
 
@@ -1482,11 +1482,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.hanneseilers.robotbluetoothjoystick:windowActionBar
+          @attr name de.hanneseilers.peppernaoremote:windowActionBar
         */
         public static final int ActionBarWindow_windowActionBar = 0;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #ActionBarWindow} array.
 
 
@@ -1496,11 +1496,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.hanneseilers.robotbluetoothjoystick:windowActionBarOverlay
+          @attr name de.hanneseilers.peppernaoremote:windowActionBarOverlay
         */
         public static final int ActionBarWindow_windowActionBarOverlay = 1;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #ActionBarWindow} array.
 
 
@@ -1515,11 +1515,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.hanneseilers.robotbluetoothjoystick:windowFixedHeightMajor
+          @attr name de.hanneseilers.peppernaoremote:windowFixedHeightMajor
         */
         public static final int ActionBarWindow_windowFixedHeightMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #ActionBarWindow} array.
 
 
@@ -1534,11 +1534,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.hanneseilers.robotbluetoothjoystick:windowFixedHeightMinor
+          @attr name de.hanneseilers.peppernaoremote:windowFixedHeightMinor
         */
         public static final int ActionBarWindow_windowFixedHeightMinor = 4;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #ActionBarWindow} array.
 
 
@@ -1553,11 +1553,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.hanneseilers.robotbluetoothjoystick:windowFixedWidthMajor
+          @attr name de.hanneseilers.peppernaoremote:windowFixedWidthMajor
         */
         public static final int ActionBarWindow_windowFixedWidthMajor = 3;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #ActionBarWindow} array.
 
 
@@ -1572,11 +1572,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.hanneseilers.robotbluetoothjoystick:windowFixedWidthMinor
+          @attr name de.hanneseilers.peppernaoremote:windowFixedWidthMinor
         */
         public static final int ActionBarWindow_windowFixedWidthMinor = 5;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#windowSplitActionBar}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#windowSplitActionBar}
           attribute's value can be found in the {@link #ActionBarWindow} array.
 
 
@@ -1586,7 +1586,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.hanneseilers.robotbluetoothjoystick:windowSplitActionBar
+          @attr name de.hanneseilers.peppernaoremote:windowSplitActionBar
         */
         public static final int ActionBarWindow_windowSplitActionBar = 2;
         /** Attributes that can be used with a ActionMenuItemView.
@@ -1619,11 +1619,11 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background de.hanneseilers.robotbluetoothjoystick:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit de.hanneseilers.robotbluetoothjoystick:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height de.hanneseilers.robotbluetoothjoystick:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle de.hanneseilers.robotbluetoothjoystick:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle de.hanneseilers.robotbluetoothjoystick:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background de.hanneseilers.peppernaoremote:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit de.hanneseilers.peppernaoremote:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height de.hanneseilers.peppernaoremote:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle de.hanneseilers.peppernaoremote:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle de.hanneseilers.peppernaoremote:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -1636,17 +1636,17 @@ containing a value of this type.
             0x7f010049
         };
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#background}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.hanneseilers.robotbluetoothjoystick:background
+          @attr name de.hanneseilers.peppernaoremote:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -1654,11 +1654,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name de.hanneseilers.robotbluetoothjoystick:backgroundSplit
+          @attr name de.hanneseilers.peppernaoremote:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#height}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -1670,27 +1670,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.hanneseilers.robotbluetoothjoystick:height
+          @attr name de.hanneseilers.peppernaoremote:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.hanneseilers.robotbluetoothjoystick:subtitleTextStyle
+          @attr name de.hanneseilers.peppernaoremote:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.hanneseilers.robotbluetoothjoystick:titleTextStyle
+          @attr name de.hanneseilers.peppernaoremote:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -1699,8 +1699,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable de.hanneseilers.robotbluetoothjoystick:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount de.hanneseilers.robotbluetoothjoystick:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable de.hanneseilers.peppernaoremote:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount de.hanneseilers.peppernaoremote:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -1709,17 +1709,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010057, 0x7f010058
         };
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.hanneseilers.robotbluetoothjoystick:expandActivityOverflowButtonDrawable
+          @attr name de.hanneseilers.peppernaoremote:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -1729,7 +1729,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.hanneseilers.robotbluetoothjoystick:initialActivityCount
+          @attr name de.hanneseilers.peppernaoremote:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a ButtonBarContainerTheme.
@@ -1738,8 +1738,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarContainerTheme_metaButtonBarButtonStyle de.hanneseilers.robotbluetoothjoystick:metaButtonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ButtonBarContainerTheme_metaButtonBarStyle de.hanneseilers.robotbluetoothjoystick:metaButtonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarContainerTheme_metaButtonBarButtonStyle de.hanneseilers.peppernaoremote:metaButtonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarContainerTheme_metaButtonBarStyle de.hanneseilers.peppernaoremote:metaButtonBarStyle}</code></td><td></td></tr>
            </table>
            @see #ButtonBarContainerTheme_metaButtonBarButtonStyle
            @see #ButtonBarContainerTheme_metaButtonBarStyle
@@ -1748,23 +1748,23 @@ containing a value of this type.
             0x7f010059, 0x7f01005a
         };
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#metaButtonBarButtonStyle}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#metaButtonBarButtonStyle}
           attribute's value can be found in the {@link #ButtonBarContainerTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.hanneseilers.robotbluetoothjoystick:metaButtonBarButtonStyle
+          @attr name de.hanneseilers.peppernaoremote:metaButtonBarButtonStyle
         */
         public static final int ButtonBarContainerTheme_metaButtonBarButtonStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#metaButtonBarStyle}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#metaButtonBarStyle}
           attribute's value can be found in the {@link #ButtonBarContainerTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.hanneseilers.robotbluetoothjoystick:metaButtonBarStyle
+          @attr name de.hanneseilers.peppernaoremote:metaButtonBarStyle
         */
         public static final int ButtonBarContainerTheme_metaButtonBarStyle = 0;
         /** Attributes that can be used with a CompatTextView.
@@ -1773,7 +1773,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CompatTextView_textAllCaps de.hanneseilers.robotbluetoothjoystick:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompatTextView_textAllCaps de.hanneseilers.peppernaoremote:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #CompatTextView_textAllCaps
          */
@@ -1781,14 +1781,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01005b
         };
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#textAllCaps}
           attribute's value can be found in the {@link #CompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name de.hanneseilers.robotbluetoothjoystick:textAllCaps
+          @attr name de.hanneseilers.peppernaoremote:textAllCaps
         */
         public static final int CompatTextView_textAllCaps = 0;
         /** Attributes that can be used with a LinearLayoutICS.
@@ -1797,9 +1797,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #LinearLayoutICS_divider de.hanneseilers.robotbluetoothjoystick:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutICS_dividerPadding de.hanneseilers.robotbluetoothjoystick:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutICS_showDividers de.hanneseilers.robotbluetoothjoystick:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutICS_divider de.hanneseilers.peppernaoremote:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutICS_dividerPadding de.hanneseilers.peppernaoremote:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutICS_showDividers de.hanneseilers.peppernaoremote:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutICS_divider
            @see #LinearLayoutICS_dividerPadding
@@ -1809,17 +1809,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010046, 0x7f01005c, 0x7f01005d
         };
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#divider}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutICS} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.hanneseilers.robotbluetoothjoystick:divider
+          @attr name de.hanneseilers.peppernaoremote:divider
         */
         public static final int LinearLayoutICS_divider = 0;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutICS} array.
 
 
@@ -1831,11 +1831,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.hanneseilers.robotbluetoothjoystick:dividerPadding
+          @attr name de.hanneseilers.peppernaoremote:dividerPadding
         */
         public static final int LinearLayoutICS_dividerPadding = 2;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutICS} array.
 
 
@@ -1850,7 +1850,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name de.hanneseilers.robotbluetoothjoystick:showDividers
+          @attr name de.hanneseilers.peppernaoremote:showDividers
         */
         public static final int LinearLayoutICS_showDividers = 1;
         /** Attributes that can be used with a MenuGroup.
@@ -1919,9 +1919,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout de.hanneseilers.robotbluetoothjoystick:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass de.hanneseilers.robotbluetoothjoystick:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass de.hanneseilers.robotbluetoothjoystick:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout de.hanneseilers.peppernaoremote:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass de.hanneseilers.peppernaoremote:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass de.hanneseilers.peppernaoremote:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -1935,7 +1935,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction de.hanneseilers.robotbluetoothjoystick:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction de.hanneseilers.peppernaoremote:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -1963,17 +1963,17 @@ containing a value of this type.
             0x7f010061
         };
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.hanneseilers.robotbluetoothjoystick:actionLayout
+          @attr name de.hanneseilers.peppernaoremote:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -1983,11 +1983,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.hanneseilers.robotbluetoothjoystick:actionProviderClass
+          @attr name de.hanneseilers.peppernaoremote:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -1997,7 +1997,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.hanneseilers.robotbluetoothjoystick:actionViewClass
+          @attr name de.hanneseilers.peppernaoremote:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -2079,7 +2079,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -2095,7 +2095,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name de.hanneseilers.robotbluetoothjoystick:showAsAction
+          @attr name de.hanneseilers.peppernaoremote:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -2183,8 +2183,8 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault de.hanneseilers.robotbluetoothjoystick:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint de.hanneseilers.robotbluetoothjoystick:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault de.hanneseilers.peppernaoremote:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint de.hanneseilers.peppernaoremote:queryHint}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_imeOptions
            @see #SearchView_android_inputType
@@ -2215,7 +2215,7 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -2225,11 +2225,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.hanneseilers.robotbluetoothjoystick:iconifiedByDefault
+          @attr name de.hanneseilers.peppernaoremote:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 3;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -2239,7 +2239,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.hanneseilers.robotbluetoothjoystick:queryHint
+          @attr name de.hanneseilers.peppernaoremote:queryHint
         */
         public static final int SearchView_queryHint = 4;
         /** Attributes that can be used with a Spinner.
@@ -2254,10 +2254,10 @@ containing a value of this type.
            <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_disableChildrenWhenDisabled de.hanneseilers.robotbluetoothjoystick:disableChildrenWhenDisabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupPromptView de.hanneseilers.robotbluetoothjoystick:popupPromptView}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_prompt de.hanneseilers.robotbluetoothjoystick:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_spinnerMode de.hanneseilers.robotbluetoothjoystick:spinnerMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_disableChildrenWhenDisabled de.hanneseilers.peppernaoremote:disableChildrenWhenDisabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupPromptView de.hanneseilers.peppernaoremote:popupPromptView}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_prompt de.hanneseilers.peppernaoremote:prompt}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spinnerMode de.hanneseilers.peppernaoremote:spinnerMode}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownHorizontalOffset
            @see #Spinner_android_dropDownSelector
@@ -2312,7 +2312,7 @@ containing a value of this type.
         */
         public static final int Spinner_android_popupBackground = 2;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#disableChildrenWhenDisabled}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#disableChildrenWhenDisabled}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -2322,31 +2322,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.hanneseilers.robotbluetoothjoystick:disableChildrenWhenDisabled
+          @attr name de.hanneseilers.peppernaoremote:disableChildrenWhenDisabled
         */
         public static final int Spinner_disableChildrenWhenDisabled = 9;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#popupPromptView}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#popupPromptView}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.hanneseilers.robotbluetoothjoystick:popupPromptView
+          @attr name de.hanneseilers.peppernaoremote:popupPromptView
         */
         public static final int Spinner_popupPromptView = 8;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#prompt}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#prompt}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.hanneseilers.robotbluetoothjoystick:prompt
+          @attr name de.hanneseilers.peppernaoremote:prompt
         */
         public static final int Spinner_prompt = 6;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#spinnerMode}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#spinnerMode}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -2359,7 +2359,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>dialog</code></td><td>0</td><td></td></tr>
 <tr><td><code>dropdown</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name de.hanneseilers.robotbluetoothjoystick:spinnerMode
+          @attr name de.hanneseilers.peppernaoremote:spinnerMode
         */
         public static final int Spinner_spinnerMode = 7;
         /** Attributes that can be used with a Theme.
@@ -2368,12 +2368,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Theme_actionDropDownStyle de.hanneseilers.robotbluetoothjoystick:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight de.hanneseilers.robotbluetoothjoystick:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator de.hanneseilers.robotbluetoothjoystick:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListTheme de.hanneseilers.robotbluetoothjoystick:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListWidth de.hanneseilers.robotbluetoothjoystick:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupMenuStyle de.hanneseilers.robotbluetoothjoystick:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionDropDownStyle de.hanneseilers.peppernaoremote:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight de.hanneseilers.peppernaoremote:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator de.hanneseilers.peppernaoremote:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListTheme de.hanneseilers.peppernaoremote:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListWidth de.hanneseilers.peppernaoremote:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupMenuStyle de.hanneseilers.peppernaoremote:popupMenuStyle}</code></td><td></td></tr>
            </table>
            @see #Theme_actionDropDownStyle
            @see #Theme_dropdownListPreferredItemHeight
@@ -2387,17 +2387,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01006c, 0x7f01006d
         };
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.hanneseilers.robotbluetoothjoystick:actionDropDownStyle
+          @attr name de.hanneseilers.peppernaoremote:actionDropDownStyle
         */
         public static final int Theme_actionDropDownStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -2409,31 +2409,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.hanneseilers.robotbluetoothjoystick:dropdownListPreferredItemHeight
+          @attr name de.hanneseilers.peppernaoremote:dropdownListPreferredItemHeight
         */
         public static final int Theme_dropdownListPreferredItemHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.hanneseilers.robotbluetoothjoystick:listChoiceBackgroundIndicator
+          @attr name de.hanneseilers.peppernaoremote:listChoiceBackgroundIndicator
         */
         public static final int Theme_listChoiceBackgroundIndicator = 5;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.hanneseilers.robotbluetoothjoystick:panelMenuListTheme
+          @attr name de.hanneseilers.peppernaoremote:panelMenuListTheme
         */
         public static final int Theme_panelMenuListTheme = 4;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -2445,17 +2445,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.hanneseilers.robotbluetoothjoystick:panelMenuListWidth
+          @attr name de.hanneseilers.peppernaoremote:panelMenuListWidth
         */
         public static final int Theme_panelMenuListWidth = 3;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.hanneseilers.robotbluetoothjoystick:popupMenuStyle
+          @attr name de.hanneseilers.peppernaoremote:popupMenuStyle
         */
         public static final int Theme_popupMenuStyle = 2;
         /** Attributes that can be used with a View.
@@ -2465,8 +2465,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd de.hanneseilers.robotbluetoothjoystick:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart de.hanneseilers.robotbluetoothjoystick:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd de.hanneseilers.peppernaoremote:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart de.hanneseilers.peppernaoremote:paddingStart}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_paddingEnd
@@ -2482,7 +2482,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int View_android_focusable = 0;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -2494,11 +2494,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.hanneseilers.robotbluetoothjoystick:paddingEnd
+          @attr name de.hanneseilers.peppernaoremote:paddingEnd
         */
         public static final int View_paddingEnd = 2;
         /**
-          <p>This symbol is the offset where the {@link de.hanneseilers.robotbluetoothjoystick.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link de.hanneseilers.peppernaoremote.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -2510,7 +2510,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.hanneseilers.robotbluetoothjoystick:paddingStart
+          @attr name de.hanneseilers.peppernaoremote:paddingStart
         */
         public static final int View_paddingStart = 1;
     };
