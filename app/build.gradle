@@ -4,8 +4,8 @@ android {
     compileSdkVersion 19
     buildToolsVersion "26.0.2"
     defaultConfig {
-        applicationId "de.hanneseilers.robotbluetoothjoystick"
-        minSdkVersion 22
+        applicationId 'de.hanneseilers.peppernaoremote'
+        minSdkVersion 19
         targetSdkVersion 22
     }
     buildTypes {
